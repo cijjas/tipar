@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1088797004347-ab6sst8s9st2qv7qiviqnlkc6plhg0qu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1088797004347-ab6sst8s9st2qv7qiviqnlkc6plhg0qu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuooAOA36U-U-qjSX-FtiWHHFNuKCH9WY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1088797004347</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.tipar</string>
+	<key>PROJECT_ID</key>
+	<string>tipar-d4358</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tipar-d4358.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1088797004347:ios:ad0fd28d7bef0c4bab021e</string>
+</dict>
+</plist>

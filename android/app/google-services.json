@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1088797004347",
+    "project_id": "tipar-d4358",
+    "storage_bucket": "tipar-d4358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088797004347:android:79c91c5343dc64e5ab021e",
+        "android_client_info": {
+          "package_name": "com.mycompany.tipar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088797004347-9e1l1t7rhnhgptale4je6qkpdvs9k5j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6XwYC_Edbtid0VKQH8x0LdSCqgTbk-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088797004347-9e1l1t7rhnhgptale4je6qkpdvs9k5j3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088797004347-ab6sst8s9st2qv7qiviqnlkc6plhg0qu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tipar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
